@@ -22,9 +22,7 @@ Desafio simples de uma calculadora, proposto no curso de react para colocar em p
 # Clone este repositório
 $ git clone <git@github.com:carineortolani/challenge-calculator.git>
 # Acesse a pasta do projeto no terminal/cmd
-$ cd challenge-frontend-react
-# Crie um arquivo .env seguindo como modelo o arquivo .env.example e preencha com suas configurações locais
-$ copy .env.example .env
+$ cd challenge-calculator
 # Instalar as dependências
 $ yarn install
 # Iniciando o servidor
